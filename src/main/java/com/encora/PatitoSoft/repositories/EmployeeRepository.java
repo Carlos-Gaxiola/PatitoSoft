@@ -1,9 +1,7 @@
 package com.encora.PatitoSoft.repositories;
 
-import com.encora.PatitoSoft.entities.Country;
 import com.encora.PatitoSoft.entities.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 
